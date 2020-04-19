@@ -1,0 +1,13 @@
+idValue|descriptionValue|idObject|descriptionObject|idAttribue|descriptionAttrubute|idSource|descriptionSource|TruthProbabilityOfValue|TrustworthinessOfSource
+2|Budapest|1|Test 1|2|What is the capital city of Romania?|1|Student 1|0.5|1.8175819768936206
+4|Bucharest|1|Test 1|2|What is the capital city of Romania?|2|Student 2|0.5|1.8748953839109677
+12|France|2|Test 2|4|What is the largest country in the European Union?|3|Student 3|0.6322418422060739|0.9739674656348574
+3|{2,4,6,8}|1|Test 1|1|Provide the set of prime numbers smaller than 10.|2|Student 2|0.3535533905932738|1.8748953839109677
+10|France|2|Test 2|4|What is the largest country in the European Union?|2|Student 2|0.6322418422060739|1.8748953839109677
+5|{2,3,5,7}|1|Test 1|1|Provide the set of prime numbers smaller than 10.|3|Student 3|0.7251806446420082|0.9739674656348574
+8|Spain|2|Test 2|4|What is the largest country in the European Union?|1|Student 1|0.3535533905932738|1.8175819768936206
+6|Belgrade|1|Test 1|2|What is the capital city of Romania?|3|Student 3|0.3013133040766504|0.9739674656348574
+9|26|2|Test 2|3|Give a natural numberxsatisfyingxmod 4=0.|2|Student 2|0.5754055926501247|1.8748953839109677
+11|41|2|Test 2|3|Give a natural numberxsatisfyingxmod 4=0.|3|Student 3|0.3719207307772359|0.9739674656348574
+1|{2,3,5,7}|1|Test 1|1|Provide the set of prime numbers smaller than 10.|1|Student 1|0.7251806446420082|1.8175819768936206
+7|24|2|Test 2|3|Give a natural numberxsatisfyingxmod 4=0.|1|Student 1|0.5574421150343403|1.8175819768936206
